@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Oleksandr 👋
 
-<!--
-**Krut0g0lov/Krut0g0lov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network / Infrastructure Engineer (CCNA → CCNP)  
+Focused on Networking, Linux, Automation and Cloud.
 
-Here are some ideas to get you started:
+## 🔧 Current Focus
+- CCNP Enterprise (ENCOR)
+- Network Automation (Python / Ansible)
+- Linux networking & troubleshooting
+- Cloud fundamentals (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Networking: Cisco, OSPF, BGP, VLAN, VPN
+- Automation: Python, Ansible (learning)
+- Linux: CLI, networking, tcpdump, systemctl
+- Cloud: AWS (in progress)
+- Tools: Git, EVE-NG, GNS3, Wireshark
+
+## 📂 Featured Projects
+- 🔹 [Network Automation Python](https://github.com/YOURNAME/network-automation-python)
+- 🔹 [Ansible Network Labs](https://github.com/YOURNAME/ansible-network-labs)
+- 🔹 [EVE-NG Network Labs](https://github.com/YOURNAME/eve-ng-labs)
+
+## 📫 Contact
+- LinkedIn: (https://www.linkedin.com/in/oleksandr-derevianko094/)
+- Email: (derevankoa094@gmail.com)
+
+## 🚀 Goal
+Building strong Network / Cloud / Infrastructure engineering skills.
