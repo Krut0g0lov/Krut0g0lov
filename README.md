@@ -1,5 +1,4 @@
-# Hello, I'm Oleksandr 👋 Testing branch workflow
-
+# Hello, I'm Oleksandr 👋
 
 Network / Infrastructure Engineer (CCNA → CCNP)  
 Focused on Networking, Linux, Automation and Cloud.
