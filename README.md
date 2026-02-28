@@ -17,9 +17,10 @@ Focused on Networking, Linux, Automation and Cloud.
 - Tools: Git, EVE-NG, GNS3, Wireshark
 
 ## 📂 Featured Projects
-- 🔹 [Network Automation Python](https://github.com/YOURNAME/network-automation-python)
-- 🔹 [Ansible Network Labs](https://github.com/YOURNAME/ansible-network-labs)
-- 🔹 [EVE-NG Network Labs](https://github.com/YOURNAME/eve-ng-labs)
+- 🔹 [Cisco-CML Network Labs](https://github.com/Krut0g0lov/Cisco-CML-labs)
+- 🔹 [Network Automation Python](https://github.com/Krut0g0lov/network-automation-python)
+- 🔹 [Ansible Network Labs](https://github.com/Krut0g0lov/ansible-network-labs)
+
 
 ## 📫 Contact
 - LinkedIn: (https://www.linkedin.com/in/oleksandr-derevianko094/)
