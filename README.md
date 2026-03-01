@@ -17,6 +17,7 @@ Focused on Networking, Linux, Automation and Cloud.
 - Tools: Git, EVE-NG, GNS3, Wireshark
 
 ## 📂 Featured Projects
+- 🔹 [Site-to-Site-IPsec-VPN](https://github.com/Krut0g0lov/Build-Site-to-Site-IPsec-VPN-over-untrusted-ISP-network)
 - 🔹 [Cisco-CML Network Labs](https://github.com/Krut0g0lov/Cisco-CML-labs)
 - 🔹 [Network Automation Python](https://github.com/Krut0g0lov/network-automation-python)
 - 🔹 [Ansible Network Labs](https://github.com/Krut0g0lov/ansible-network-labs)
